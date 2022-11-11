@@ -55,7 +55,7 @@ nav a:hover {
 
 .banner-area {
   position: fixed;
-  background-image: url(img/petadopthold.png);
+  background-image: url(images/petadopthold.png);
   background-size: cover;
   background-position: center center;
   top: 100px;

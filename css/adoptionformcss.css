@@ -55,7 +55,7 @@ nav a:hover {
 
 .banner-area {
   position: fixed;
-  background-image: url(343-f22-p1/images/landphoto.png);
+  background-image: url(../images/landphoto.png);
   background-size: cover;
   background-position: center center;
   top: 100px;

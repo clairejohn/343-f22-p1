@@ -38,7 +38,6 @@
 
         nav a {
             text-decoration: none;
-            font-family: 'Poppins';
             letter-spacing: 4px;
             font-size: 20px;
             color:white;
@@ -56,7 +55,7 @@
 
         .banner-area {
             position: fixed;
-            background-image: url(.../images/landphoto.png);
+            background-image: url(../images/landphoto.png);
             background-size: cover;
             background-position: center center;
             top: 100px;
